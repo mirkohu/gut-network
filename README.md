@@ -1,2 +1,2 @@
 # gut-network
-First exercises on networks produce from gut metagenomics
+First exercises on networks based on gut metagenomics
